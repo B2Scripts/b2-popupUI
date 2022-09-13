@@ -18,10 +18,6 @@ shared_script {
   'config.lua',
 }
 
-server_scripts {
-  'server.lua',
-}
-
 exports {
 }
 
